@@ -31,5 +31,6 @@ M5Stackシリーズを中心に、EnOceanセンサーの受信・送信を手軽
 
 ---
 
-## 購入
-BASE: https://xmakers.base.shop/
+## 購入先
+BASE: https://xmakers.base.shop/  
+スイッチサイエンス： https://www.switch-science.com/search?q=xmakers
