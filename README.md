@@ -1,2 +1,23 @@
-# enocean-iot-modules
-EnOcean対応のIoTモジュール群。M5Stackシリーズ中心に受信・送信を簡単に実装可能。
+# EnOcean IoT Modules
+
+クロスメイカーズが開発する、EnOcean対応のIoTモジュール群です。
+
+M5Stackシリーズを中心に、センサーの受信・送信を手軽に扱えるハードウェアを提供しています。  
+各モジュールは用途や接続方式に応じて設計されており、迅速なプロトタイピングから実運用まで対応可能です。
+
+## ラインナップ
+
+- M5Stack Unit（Grove接続）
+
+それぞれの詳細は各リポジトリをご参照ください。
+
+
+## 特徴
+
+- EnOcean無線デバイスの受信・送信に対応
+- M5Stackシリーズとの高い親和性
+- プロトタイピングから実運用まで対応
+
+
+## Purchase
+BASE: https://xmakers.base.shop/
