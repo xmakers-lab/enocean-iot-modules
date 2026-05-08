@@ -13,6 +13,9 @@ M5Stackシリーズを中心に、EnOceanセンサーの受信・送信を手軽
 - M5Stack Unit（Grove接続）  
   https://github.com/xmakers/enocean-m5-unit
 
+- M5Stick Module（HAT接続）  
+  https://github.com/xmakers-lab/enocean-m5stick
+
 それぞれの詳細は各リポジトリをご参照ください。
 
 ---
